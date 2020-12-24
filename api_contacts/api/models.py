@@ -22,7 +22,7 @@ class Employee(models.Model):
 
 
 class DateContact(models.Model):
-    date = models.DateTimeField(verbose_name='Дата контактирования')
+    date = models.DateField(verbose_name='Дата контактирования')
     employee = models.ForeignKey(Employee, on_delete=models.CASCADE,
                                  related_name='employee')
     client = models.ForeignKey(Client, on_delete=models.CASCADE,
