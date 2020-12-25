@@ -9,7 +9,7 @@
 
 ## Стек
  
-Python 3, Django 3.0.5, Django REST Framework, SQLite3, GIT
+Python 3, Django 3.1.4, Django REST Framework, SQLite3, GIT
 
 
 ## Установка 
