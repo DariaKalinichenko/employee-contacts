@@ -14,6 +14,7 @@ Python 3, Django 3.0.5, Django REST Framework, SQLite3, GIT
 
 ## Установка 
 Клонируем репозиторий на локальную машину:
+
 ```$ git clone https://github.com/DariaKalinichenko/employee-contacts```
 
 Создаем виртуальное окружение:  ```$ python -m venv venv```
