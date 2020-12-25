@@ -13,7 +13,8 @@ Python 3, Django 3.0.5, Django REST Framework, SQLite3, GIT
 
 
 ## Установка 
-Клонируем репозиторий на локальную машину: ```$ git clone https://github.com/DariaKalinichenko/employee-contacts```
+Клонируем репозиторий на локальную машину:
+```$ git clone https://github.com/DariaKalinichenko/employee-contacts```
 
 Создаем виртуальное окружение:  ```$ python -m venv venv```
 
@@ -27,7 +28,7 @@ Python 3, Django 3.0.5, Django REST Framework, SQLite3, GIT
 
 Адрес API: http://localhost:8000/api/v1/
 
-##Подробная документация методов API c примерами команд:
+## Подробная документация методов API c примерами команд:
 
 http://localhost:8000/swagger/
 
